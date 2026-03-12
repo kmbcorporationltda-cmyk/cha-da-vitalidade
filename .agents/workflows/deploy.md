@@ -8,7 +8,7 @@ description: Push changes to the cha-da-vitalidade GitHub Pages site
 
 1. Add all changed files to git staging
 ```
-& "C:\Program Files\Git\cmd\git.exe" add index.html style.css script.js
+& "C:\Program Files\Git\cmd\git.exe" add -A
 ```
 
 2. Commit with a descriptive message
